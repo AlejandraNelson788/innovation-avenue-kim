@@ -1,0 +1,28 @@
+{
+  "name": "innovation-avenue-kim",
+  "description": "innovation-avenue-kim",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/AlejandraNelson788",
+  "repository": {
+    "url": "https://github.com/AlejandraNelson788/innovation-avenue-kim"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "tea",
+    "project",
+    "oss",
+    "innovation",
+    "avenue"
+  ],
+  "author": "AlejandraNelson788",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
